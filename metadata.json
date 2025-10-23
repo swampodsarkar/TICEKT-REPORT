@@ -1,0 +1,5 @@
+{
+  "name": "Live Ticket Hub",
+  "description": "A real-time, sheet-type web application for logging and managing support tickets. Users can log in, create/edit tickets, and export data to PDF or Excel, with all changes synced live via Firebase Realtime Database.",
+  "requestFramePermissions": []
+}
